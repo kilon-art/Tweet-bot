@@ -1,0 +1,13 @@
+It's a failed project. My purpose was to integrate Twitter, Instagram and Facebook so that I could schedule the posts once all.
+
+Some problems have been solved, like you don't need to edit any other code except adding multiple image paths, and avoiding the error of over large images by reducing them automatically. To use this script, input text at 'post text.txt', and define image paths on line29. Note that the local path you input should be formatted in r'to\your\image\path\'. Hope you have fun.
+
+Unfortunately, there is no API for scheduling tweets, I guess for another two platforms either. Well, I'm rather a painter than a professional programmer, and this code is with the help of ChatGPT 3.5 and online mates on Stack Overflow, thanks to all of you.
+
+If one wants to get more attentions on social media, it's quite necessary to post frequently, which I was always struggling with but got frustrated again and again. However, spending hours to preparing all the posts in the next month is acceptable, I'll find another way to do this.
+
+By the way, I'm Kilon, you can address my Instagram at 'Feramirus.art'. Nice to meet you.
+
+Kilon
+
+13:33 4/14/2024 GMT+8
